@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: fe788b9934b1d3c4abc5a649b78cc3f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4951630665810854362
+    second: omm_bg_bg_liquid_001_full_0
+  - first:
+      213: 4310962545917826220
+    second: omm_bg_bg_liquid_001_full_1
+  - first:
+      213: 7902189947832548613
+    second: omm_bg_bg_liquid_001_full_2
+  - first:
+      213: 1435142873037195957
+    second: omm_bg_bg_liquid_001_full_3
+  - first:
+      213: -195952698650103922
+    second: omm_bg_bg_liquid_001_full_4
+  - first:
+      213: 4412652196941076072
+    second: omm_bg_bg_liquid_001_full_5
+  - first:
+      213: 1780972209994052046
+    second: omm_bg_bg_liquid_001_full_6
+  - first:
+      213: -8207869772389891799
+    second: omm_bg_bg_liquid_001_full_7
+  - first:
+      213: 7877060223811139469
+    second: omm_bg_bg_liquid_001_full_8
+  - first:
+      213: 2199746253885578539
+    second: omm_bg_bg_liquid_001_full_9
+  - first:
+      213: -8428490694835760398
+    second: omm_bg_bg_liquid_001_full_10
+  - first:
+      213: 5729824397979317953
+    second: omm_bg_bg_liquid_001_full_11
+  - first:
+      213: -5045730261655317468
+    second: omm_bg_bg_liquid_001_full_12
+  - first:
+      213: 2846515972992335465
+    second: omm_bg_bg_liquid_001_full_13
+  - first:
+      213: -4959630070746032282
+    second: omm_bg_bg_liquid_001_full_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: omm_bg_bg_liquid_001_full_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 476
+        width: 6
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62eb961f426484bb0800000000000000
+      internalID: -4951630665810854362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_bg_bg_liquid_001_full_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 1884
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca41275589d93db30800000000000000
+      internalID: 4310962545917826220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_bg_bg_liquid_001_full_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 444
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50db834d3e73aad60800000000000000
+      internalID: 7902189947832548613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_bg_bg_liquid_001_full_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 379
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bac05dd6d6aae310800000000000000
+      internalID: 1435142873037195957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_bg_bg_liquid_001_full_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 409
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f6e2c0f06d74df0800000000000000
+      internalID: -195952698650103922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_bg_bg_liquid_001_full_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 347
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866150c3bc3ec3d30800000000000000
+      internalID: 4412652196941076072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_bg_bg_liquid_001_full_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 311
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1b98bf9c847b810800000000000000
+      internalID: 1780972209994052046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_bg_bg_liquid_001_full_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 276
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921c80edde9c71e80800000000000000
+      internalID: -8207869772389891799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_bg_bg_liquid_001_full_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 243
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d873f920a80f05d60800000000000000
+      internalID: 7877060223811139469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_bg_bg_liquid_001_full_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 144
+        width: 12
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d98da2091178e10800000000000000
+      internalID: 2199746253885578539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_bg_bg_liquid_001_full_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 210
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f211ad7e5cf70b80800000000000000
+      internalID: -8428490694835760398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_bg_bg_liquid_001_full_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 110
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c67cea9eec648f40800000000000000
+      internalID: 5729824397979317953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_bg_bg_liquid_001_full_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 78
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42498997f07f9f9b0800000000000000
+      internalID: -5045730261655317468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_bg_bg_liquid_001_full_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 45
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96efea9223bd08720800000000000000
+      internalID: 2846515972992335465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_bg_bg_liquid_001_full_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 34
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66756d75abadb2bb0800000000000000
+      internalID: -4959630070746032282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      omm_bg_bg_liquid_001_full_0: -4951630665810854362
+      omm_bg_bg_liquid_001_full_1: 4310962545917826220
+      omm_bg_bg_liquid_001_full_10: -8428490694835760398
+      omm_bg_bg_liquid_001_full_11: 5729824397979317953
+      omm_bg_bg_liquid_001_full_12: -5045730261655317468
+      omm_bg_bg_liquid_001_full_13: 2846515972992335465
+      omm_bg_bg_liquid_001_full_14: -4959630070746032282
+      omm_bg_bg_liquid_001_full_2: 7902189947832548613
+      omm_bg_bg_liquid_001_full_3: 1435142873037195957
+      omm_bg_bg_liquid_001_full_4: -195952698650103922
+      omm_bg_bg_liquid_001_full_5: 4412652196941076072
+      omm_bg_bg_liquid_001_full_6: 1780972209994052046
+      omm_bg_bg_liquid_001_full_7: -8207869772389891799
+      omm_bg_bg_liquid_001_full_8: 7877060223811139469
+      omm_bg_bg_liquid_001_full_9: 2199746253885578539
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 07ca3a603559865408429e5bb09c784d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3581704703489263247
+    second: omm_ph3_acid_bubble_h_0013_0
+  - first:
+      213: -769779289096897043
+    second: omm_ph3_acid_bubble_h_0013_1
+  - first:
+      213: 3979458966746026797
+    second: omm_ph3_acid_bubble_h_0013_2
+  - first:
+      213: -5667225942067866962
+    second: omm_ph3_acid_bubble_h_0013_3
+  - first:
+      213: 472260365523016137
+    second: omm_ph3_acid_bubble_h_0013_4
+  - first:
+      213: -6033260287173508070
+    second: omm_ph3_acid_bubble_h_0013_5
+  - first:
+      213: 7258361939239522122
+    second: omm_ph3_acid_bubble_h_0013_6
+  - first:
+      213: 7340233442981812617
+    second: omm_ph3_acid_bubble_h_0013_7
+  - first:
+      213: 773305478761601123
+    second: omm_ph3_acid_bubble_h_0013_8
+  - first:
+      213: -6420330767004381254
+    second: omm_ph3_acid_bubble_h_0013_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: omm_ph3_acid_bubble_h_0013_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 91
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86c2dd7375c4b130800000000000000
+      internalID: 3581704703489263247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_bubble_h_0013_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 88
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded3de5a0d13155f0800000000000000
+      internalID: -769779289096897043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_bubble_h_0013_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 95
+        width: 60
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23d32f98d0e93730800000000000000
+      internalID: 3979458966746026797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_bubble_h_0013_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 52
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea29a2d2808f951b0800000000000000
+      internalID: -5667225942067866962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_bubble_h_0013_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 83
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9de70ec4ecd8600800000000000000
+      internalID: 472260365523016137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_bubble_h_0013_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 60
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a144d810cbd854ca0800000000000000
+      internalID: -6033260287173508070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_bubble_h_0013_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 62
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f469f2ab1eab460800000000000000
+      internalID: 7258361939239522122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_bubble_h_0013_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 60
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9899f591d6fbdd560800000000000000
+      internalID: 7340233442981812617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_bubble_h_0013_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 59
+        width: 57
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368d27c5c355bba00800000000000000
+      internalID: 773305478761601123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_bubble_h_0013_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 38
+        width: 41
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf413c0f2766e6a0800000000000000
+      internalID: -6420330767004381254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      omm_ph3_acid_bubble_h_0013_0: 3581704703489263247
+      omm_ph3_acid_bubble_h_0013_1: -769779289096897043
+      omm_ph3_acid_bubble_h_0013_2: 3979458966746026797
+      omm_ph3_acid_bubble_h_0013_3: -5667225942067866962
+      omm_ph3_acid_bubble_h_0013_4: 472260365523016137
+      omm_ph3_acid_bubble_h_0013_5: -6033260287173508070
+      omm_ph3_acid_bubble_h_0013_6: 7258361939239522122
+      omm_ph3_acid_bubble_h_0013_7: 7340233442981812617
+      omm_ph3_acid_bubble_h_0013_8: 773305478761601123
+      omm_ph3_acid_bubble_h_0013_9: -6420330767004381254
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

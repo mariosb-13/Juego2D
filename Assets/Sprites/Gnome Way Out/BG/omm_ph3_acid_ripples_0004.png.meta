@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 6eea849a52920b64f97c62f8bf911f8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8166078482513358834
+    second: omm_ph3_acid_ripples_0004_0
+  - first:
+      213: 6493915656530855576
+    second: omm_ph3_acid_ripples_0004_1
+  - first:
+      213: 23548355808655987
+    second: omm_ph3_acid_ripples_0004_2
+  - first:
+      213: -8980336799971378409
+    second: omm_ph3_acid_ripples_0004_3
+  - first:
+      213: 1883353288228665967
+    second: omm_ph3_acid_ripples_0004_4
+  - first:
+      213: 6591662483554256917
+    second: omm_ph3_acid_ripples_0004_5
+  - first:
+      213: 4953128156511360123
+    second: omm_ph3_acid_ripples_0004_6
+  - first:
+      213: 6201368261233810583
+    second: omm_ph3_acid_ripples_0004_7
+  - first:
+      213: -5219543156552391682
+    second: omm_ph3_acid_ripples_0004_8
+  - first:
+      213: 9137532982021752215
+    second: omm_ph3_acid_ripples_0004_9
+  - first:
+      213: -8903967195387081830
+    second: omm_ph3_acid_ripples_0004_10
+  - first:
+      213: -5752502703928615534
+    second: omm_ph3_acid_ripples_0004_11
+  - first:
+      213: -5220928887502526782
+    second: omm_ph3_acid_ripples_0004_12
+  - first:
+      213: 6405666177874838266
+    second: omm_ph3_acid_ripples_0004_13
+  - first:
+      213: -1074538992095340519
+    second: omm_ph3_acid_ripples_0004_14
+  - first:
+      213: -5742585979789331978
+    second: omm_ph3_acid_ripples_0004_15
+  - first:
+      213: -6867464994300923320
+    second: omm_ph3_acid_ripples_0004_16
+  - first:
+      213: 957564714381846787
+    second: omm_ph3_acid_ripples_0004_17
+  - first:
+      213: -3384499475270429569
+    second: omm_ph3_acid_ripples_0004_18
+  - first:
+      213: -2943355150434947968
+    second: omm_ph3_acid_ripples_0004_19
+  - first:
+      213: -3138906784194778019
+    second: omm_ph3_acid_ripples_0004_20
+  - first:
+      213: 7208067410049960382
+    second: omm_ph3_acid_ripples_0004_21
+  - first:
+      213: 1842842509674464227
+    second: omm_ph3_acid_ripples_0004_22
+  - first:
+      213: 3341730101761639600
+    second: omm_ph3_acid_ripples_0004_23
+  - first:
+      213: 5653496289858977706
+    second: omm_ph3_acid_ripples_0004_24
+  - first:
+      213: -6637634964618011613
+    second: omm_ph3_acid_ripples_0004_25
+  - first:
+      213: 6197050137411579079
+    second: omm_ph3_acid_ripples_0004_26
+  - first:
+      213: -496513841631865671
+    second: omm_ph3_acid_ripples_0004_27
+  - first:
+      213: -6426196964652712792
+    second: omm_ph3_acid_ripples_0004_28
+  - first:
+      213: 4625026621185954322
+    second: omm_ph3_acid_ripples_0004_29
+  - first:
+      213: -2825213085390826507
+    second: omm_ph3_acid_ripples_0004_30
+  - first:
+      213: -8611345739460892778
+    second: omm_ph3_acid_ripples_0004_31
+  - first:
+      213: -1142426559363000281
+    second: omm_ph3_acid_ripples_0004_32
+  - first:
+      213: -4707677473399673395
+    second: omm_ph3_acid_ripples_0004_33
+  - first:
+      213: 6625938941209781376
+    second: omm_ph3_acid_ripples_0004_34
+  - first:
+      213: -5327183311756652211
+    second: omm_ph3_acid_ripples_0004_35
+  - first:
+      213: -7394835110283792493
+    second: omm_ph3_acid_ripples_0004_36
+  - first:
+      213: 5290417576665923267
+    second: omm_ph3_acid_ripples_0004_37
+  - first:
+      213: -3880419611058487743
+    second: omm_ph3_acid_ripples_0004_38
+  - first:
+      213: 1320981953554933436
+    second: omm_ph3_acid_ripples_0004_39
+  - first:
+      213: -7612119359343321303
+    second: omm_ph3_acid_ripples_0004_40
+  - first:
+      213: 8183167962011817794
+    second: omm_ph3_acid_ripples_0004_41
+  - first:
+      213: 1450470024182742353
+    second: omm_ph3_acid_ripples_0004_42
+  - first:
+      213: 6405198033506665835
+    second: omm_ph3_acid_ripples_0004_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_0
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 168
+        width: 106
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0094d9c2e24cae80800000000000000
+      internalID: -8166078482513358834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 176
+        width: 57
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8968ed422e50f1a50800000000000000
+      internalID: 6493915656530855576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 180
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37af407da19a35000800000000000000
+      internalID: 23548355808655987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_3
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 168
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b7652a24f6f5380800000000000000
+      internalID: -8980336799971378409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_4
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 180
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6afe6356d3032a10800000000000000
+      internalID: 1883353288228665967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 164
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518458bca1a4a7b50800000000000000
+      internalID: 6591662483554256917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 156
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7458d7c0db0db440800000000000000
+      internalID: 4953128156511360123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_7
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 164
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c193cc39faf0650800000000000000
+      internalID: 6201368261233810583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 164
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3afd747257097b0800000000000000
+      internalID: -5219543156552391682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_9
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 160
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79582dc95d90fce70800000000000000
+      internalID: 9137532982021752215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_10
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 159
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bc833d201ce6480800000000000000
+      internalID: -8903967195387081830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 147
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d5cd2d4410b20b0800000000000000
+      internalID: -5752502703928615534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_12
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 152
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c626d6a6d88b87b0800000000000000
+      internalID: -5220928887502526782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_13
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 148
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2c6f9337f75e850800000000000000
+      internalID: 6405666177874838266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_14
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 136
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918d9d6da787611f0800000000000000
+      internalID: -1074538992095340519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_15
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 128
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1b4861a7c3e40b0800000000000000
+      internalID: -5742585979789331978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_16
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 139
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842734b19fcd1b0a0800000000000000
+      internalID: -6867464994300923320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309ad2ac804f94d00800000000000000
+      internalID: 957564714381846787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 128
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74920ab8a7d701d0800000000000000
+      internalID: -3384499475270429569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_19
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 128
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c2282d51a1727d0800000000000000
+      internalID: -2943355150434947968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 124
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ca10119ec5074d0800000000000000
+      internalID: -3138906784194778019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_21
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 132
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb909159e13380460800000000000000
+      internalID: 7208067410049960382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_22
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 119
+        width: 58
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3c22eaf77139910800000000000000
+      internalID: 1842842509674464227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_23
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 108
+        width: 57
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b48bb282d5306e20800000000000000
+      internalID: 3341730101761639600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_24
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 124
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf78001ce0457e40800000000000000
+      internalID: 5653496289858977706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_25
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 105
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c1b39da2262e3a0800000000000000
+      internalID: -6637634964618011613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_26
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 120
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cce3bf3448500650800000000000000
+      internalID: 6197050137411579079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 103
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4d77baa470c19f0800000000000000
+      internalID: -496513841631865671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 112
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac7e2978ef81d6a0800000000000000
+      internalID: -6426196964652712792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_29
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 112
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212938025356f2040800000000000000
+      internalID: 4625026621185954322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 96
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f39e7edaa3dac8d0800000000000000
+      internalID: -2825213085390826507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_31
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 108
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6972c51ccaa5e7880800000000000000
+      internalID: -8611345739460892778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_32
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 104
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728523bd8194520f0800000000000000
+      internalID: -1142426559363000281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_33
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 107
+        width: 58
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd67e0c748faaeb0800000000000000
+      internalID: -4707677473399673395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_34
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 102
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084ac3e7c5014fb50800000000000000
+      internalID: 6625938941209781376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_35
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 106
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d411b59a00b0216b0800000000000000
+      internalID: -5327183311756652211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 98
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fa2fe85a4406990800000000000000
+      internalID: -7394835110283792493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_37
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 104
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ceb7a291c65b6940800000000000000
+      internalID: 5290417576665923267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_38
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 96
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e366f4ceaf52ac0800000000000000
+      internalID: -3880419611058487743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_39
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 72
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6e7508612155210800000000000000
+      internalID: 1320981953554933436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_40
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 76
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f977ef5c15c5690800000000000000
+      internalID: -7612119359343321303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_41
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 79
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2475219b7e3709170800000000000000
+      internalID: 8183167962011817794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_42
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 56
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15db3c45dca112410800000000000000
+      internalID: 1450470024182742353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omm_ph3_acid_ripples_0004_43
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 44
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65023fdca5d3e850800000000000000
+      internalID: 6405198033506665835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      omm_ph3_acid_ripples_0004_0: -8166078482513358834
+      omm_ph3_acid_ripples_0004_1: 6493915656530855576
+      omm_ph3_acid_ripples_0004_10: -8903967195387081830
+      omm_ph3_acid_ripples_0004_11: -5752502703928615534
+      omm_ph3_acid_ripples_0004_12: -5220928887502526782
+      omm_ph3_acid_ripples_0004_13: 6405666177874838266
+      omm_ph3_acid_ripples_0004_14: -1074538992095340519
+      omm_ph3_acid_ripples_0004_15: -5742585979789331978
+      omm_ph3_acid_ripples_0004_16: -6867464994300923320
+      omm_ph3_acid_ripples_0004_17: 957564714381846787
+      omm_ph3_acid_ripples_0004_18: -3384499475270429569
+      omm_ph3_acid_ripples_0004_19: -2943355150434947968
+      omm_ph3_acid_ripples_0004_2: 23548355808655987
+      omm_ph3_acid_ripples_0004_20: -3138906784194778019
+      omm_ph3_acid_ripples_0004_21: 7208067410049960382
+      omm_ph3_acid_ripples_0004_22: 1842842509674464227
+      omm_ph3_acid_ripples_0004_23: 3341730101761639600
+      omm_ph3_acid_ripples_0004_24: 5653496289858977706
+      omm_ph3_acid_ripples_0004_25: -6637634964618011613
+      omm_ph3_acid_ripples_0004_26: 6197050137411579079
+      omm_ph3_acid_ripples_0004_27: -496513841631865671
+      omm_ph3_acid_ripples_0004_28: -6426196964652712792
+      omm_ph3_acid_ripples_0004_29: 4625026621185954322
+      omm_ph3_acid_ripples_0004_3: -8980336799971378409
+      omm_ph3_acid_ripples_0004_30: -2825213085390826507
+      omm_ph3_acid_ripples_0004_31: -8611345739460892778
+      omm_ph3_acid_ripples_0004_32: -1142426559363000281
+      omm_ph3_acid_ripples_0004_33: -4707677473399673395
+      omm_ph3_acid_ripples_0004_34: 6625938941209781376
+      omm_ph3_acid_ripples_0004_35: -5327183311756652211
+      omm_ph3_acid_ripples_0004_36: -7394835110283792493
+      omm_ph3_acid_ripples_0004_37: 5290417576665923267
+      omm_ph3_acid_ripples_0004_38: -3880419611058487743
+      omm_ph3_acid_ripples_0004_39: 1320981953554933436
+      omm_ph3_acid_ripples_0004_4: 1883353288228665967
+      omm_ph3_acid_ripples_0004_40: -7612119359343321303
+      omm_ph3_acid_ripples_0004_41: 8183167962011817794
+      omm_ph3_acid_ripples_0004_42: 1450470024182742353
+      omm_ph3_acid_ripples_0004_43: 6405198033506665835
+      omm_ph3_acid_ripples_0004_5: 6591662483554256917
+      omm_ph3_acid_ripples_0004_6: 4953128156511360123
+      omm_ph3_acid_ripples_0004_7: 6201368261233810583
+      omm_ph3_acid_ripples_0004_8: -5219543156552391682
+      omm_ph3_acid_ripples_0004_9: 9137532982021752215
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
