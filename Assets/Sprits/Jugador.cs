@@ -23,13 +23,20 @@ public class Jugador : MonoBehaviour
 
     void Update()
     {
+        // DETECCIÓN MÓVIL + PC: Espacio o cualquier toque en pantalla
+        bool quiereSaltar = Input.GetKeyDown(KeyCode.Space) || (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Began);
+
         // Salto: Solo si toca suelo y el juego no está en pausa
-        if (Input.GetKeyDown(KeyCode.Space) && tocandoSuelo && Time.timeScale == 1)
+        if (quiereSaltar && tocandoSuelo && Time.timeScale == 1)
         {
+            // Reset de velocidad para saltos más consistentes
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0); 
             rb.AddForce(new Vector2(0f, fuerzaSalto));
             
+            // ACTIVAR ANIMACIÓN: Forzamos el estado y reiniciamos el clip
             animator.SetBool("estaSaltando", true);
+            animator.Play("Saltar", -1, 0f); 
+            
             tocandoSuelo = false;
         }
     }
