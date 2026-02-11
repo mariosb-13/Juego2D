@@ -2,30 +2,59 @@ using UnityEngine;
 
 public class Jugador : MonoBehaviour
 {
-    public float fuerzaSalto;
+    [Header("Configuración de Salto")]
+    public float fuerzaSalto = 750f; 
 
-    private Rigidbody2D rigidbody2D;
+    [Header("Conexiones")]
+    public GameObject pantallaGameOver; 
+    public AudioSource musicaFondo;    
+
+    private Rigidbody2D rb;
     private Animator animator;
+    private AudioSource sonidoChoque; 
+    private bool tocandoSuelo = true; 
+
     void Start()
     {
-        rigidbody2D = GetComponent<Rigidbody2D>();
+        rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        sonidoChoque = GetComponent<AudioSource>(); 
     }
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        // Salto: Solo si toca suelo y el juego no está en pausa
+        if (Input.GetKeyDown(KeyCode.Space) && tocandoSuelo && Time.timeScale == 1)
         {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0); 
+            rb.AddForce(new Vector2(0f, fuerzaSalto));
+            
             animator.SetBool("estaSaltando", true);
-            rigidbody2D.AddForce(new Vector2(0f, fuerzaSalto));
+            tocandoSuelo = false;
         }
     }
 
-   private void OnCollisionEnter2D(Collision2D collision)
-{
-    if (collision.gameObject.CompareTag("Suelo")) 
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        animator.SetBool("estaSaltando", false); 
+        if (collision.gameObject.CompareTag("Suelo"))
+        {
+            animator.SetBool("estaSaltando", false); 
+            tocandoSuelo = true; 
+        }
+
+        if (collision.gameObject.CompareTag("Obstaculo"))
+        {
+            Morir();
+        }
     }
-}
+
+    void Morir()
+    {
+        if (musicaFondo != null) musicaFondo.Stop(); 
+        if (sonidoChoque != null) sonidoChoque.Play();
+
+        if (pantallaGameOver != null) pantallaGameOver.SetActive(true);
+
+        Time.timeScale = 0; 
+    }
 }

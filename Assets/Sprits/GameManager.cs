@@ -1,64 +1,94 @@
 using UnityEngine;
 using System.Collections.Generic;
+using TMPro;
 
 public class GameManager : MonoBehaviour
 {
-    public float velocidad = 2;
-    public GameObject col;      // El suelo
-    public GameObject seta;     // Obstáculo 1
-    public GameObject tulipan;  // Obstáculo 2
+    [Header("Configuración del Mundo")]
+    public float velocidadBase = 5f; 
+    private float velocidadActual = 0f; 
+    public float retrasoInicio = 1.2f;  // Ajusta al tiempo de la animación de pantalones
     public Renderer fondo;
-
-    // Listas para guardar lo que creamos
+    
+    [Header("Prefabs y Listas")]
+    public GameObject col;       
+    public GameObject seta;      
+    public GameObject tulipan;   
     public List<GameObject> cols = new List<GameObject>();
-    public List<GameObject> obstaculos = new List<GameObject>(); // NUEVA LISTA
+    public List<GameObject> obstaculos = new List<GameObject>();
+
+    [Header("Interfaz de Usuario")]
+    public TextMeshProUGUI textoPuntos; 
+    private float puntuacion = 0;
 
     void Start()
     {
-        for (int i = 0; i < 21; i++)
+        // Crear suelo (30 bloques para evitar huecos visuales)
+        for (int i = 0; i < 30; i++)
         {
-            cols.Add(Instantiate(col, new Vector2(-10 + i, -3), Quaternion.identity));
+            cols.Add(Instantiate(col, new Vector2(-15 + i, -3), Quaternion.identity));
         }
 
+        // Crear obstáculos iniciales con separación segura
         for (int i = 0; i < 6; i++)
         {
             GameObject prefabElegido = (Random.value > 0.5f) ? seta : tulipan;
-
-            float spawnX = 10 + (i * 7); // Separados por 7 metros cada uno
-            
+            float spawnX = 20 + (i * 12); 
             float spawnY = -2.2f; 
-
-            // Lo creamos y lo guardamos en la lista
             obstaculos.Add(Instantiate(prefabElegido, new Vector2(spawnX, spawnY), Quaternion.identity));
         }
+
+        // Esperar a que termine la animación inicial para arrancar
+        Invoke("EmpezarMundo", retrasoInicio);
     }
 
-
-
+    void EmpezarMundo() { velocidadActual = velocidadBase; }
 
     void Update()
     {
-        fondo.material.mainTextureOffset += new Vector2(0.1f, 0) * Time.deltaTime;
+        if (velocidadActual > 0)
+        {
+            puntuacion += Time.deltaTime * 10;
+            if (textoPuntos != null)
+                textoPuntos.text = "SCORE: " + Mathf.FloorToInt(puntuacion).ToString();
+        }
 
+        // Movimiento del fondo (Parallax)
+        fondo.material.mainTextureOffset += new Vector2(0.05f, 0) * Time.deltaTime * velocidadActual;
+
+        // Movimiento y reciclaje del suelo
+        ActualizarSuelo();
+
+        // Movimiento y reciclaje de obstáculos
+        ActualizarObstaculos();
+    }
+
+    void ActualizarSuelo()
+    {
         for (int i = 0; i < cols.Count; i++)
         {
-            cols[i].transform.position += new Vector3(-1, 0, 0) * Time.deltaTime * velocidad;
-
-            if (cols[i].transform.position.x < -10)
+            cols[i].transform.position += new Vector3(-1, 0, 0) * Time.deltaTime * velocidadActual;
+            if (cols[i].transform.position.x < -15)
             {
-                float nuevaX = cols[i].transform.position.x + 21f;
+                float nuevaX = cols[i].transform.position.x + 30f;
                 cols[i].transform.position = new Vector3(nuevaX, -3, 0);
             }
         }
+    }
 
+    void ActualizarObstaculos()
+    {
         for (int i = 0; i < obstaculos.Count; i++)
         {
-            obstaculos[i].transform.position += new Vector3(-1, 0, 0) * Time.deltaTime * velocidad;
+            obstaculos[i].transform.position += new Vector3(-1, 0, 0) * Time.deltaTime * velocidadActual;
 
-            if (obstaculos[i].transform.position.x < -10)
+            if (obstaculos[i].transform.position.x < -15)
             {
-                float nuevaX = Random.Range(30f, 45f);
-                
+                // Al reciclar el obstáculo, incrementamos la dificultad
+                velocidadBase += 0.2f; 
+                velocidadActual = velocidadBase;
+
+                float nuevaX = Random.Range(25f, 45f);
                 obstaculos[i].transform.position = new Vector3(nuevaX, -2.2f, 0);
             }
         }
