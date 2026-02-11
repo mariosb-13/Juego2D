@@ -1,13 +1,27 @@
 using UnityEngine;
-using UnityEngine.SceneManagement; // Necesario para cambiar de escenas
+using UnityEngine.SceneManagement;
+using UnityEngine.EventSystems;
 
 public class PantallaInicio : MonoBehaviour
 {
     void Update()
     {
-        if (Input.anyKeyDown)
+        // CAMBIO: Ahora solo entra al juego si pulsas ESPACIO o ENTER
+        // Así el ratón queda libre para pulsar el botón de Salir sin conflictos
+        if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.Return))
         {
-            SceneManager.LoadScene("SampleScene"); 
+            EmpezarJuego();
         }
+    }
+
+    public void EmpezarJuego()
+    {
+        SceneManager.LoadScene("SampleScene");
+    }
+
+    public void SalirDelJuego()
+    {
+        Debug.Log("Saliendo del juego...");
+        Application.Quit();
     }
 }
