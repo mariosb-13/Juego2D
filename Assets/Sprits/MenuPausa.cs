@@ -1,5 +1,5 @@
 using UnityEngine;
-using UnityEngine.SceneManagement; // OBLIGATORIO para cambiar de escenas
+using UnityEngine.SceneManagement;
 
 public class MenuPausa : MonoBehaviour
 {
