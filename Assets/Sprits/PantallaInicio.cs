@@ -1,12 +1,14 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.EventSystems;
 
 public class PantallaInicio : MonoBehaviour
 {
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.Return))
+        bool tocarPantalla = Input.GetMouseButtonDown(0) || (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Began);
+        bool teclaPC = Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.Return);
+
+        if (teclaPC || tocarPantalla)
         {
             EmpezarJuego();
         }

@@ -1484,6 +1484,7 @@ MonoBehaviour:
   col: {fileID: 7759194975932192144, guid: e6b69059732cecb4581a81a7d3a759dd, type: 3}
   seta: {fileID: 4042302917069061699, guid: 26ce472640b043544b9aa5d334c6470a, type: 3}
   tulipan: {fileID: 978633544596703360, guid: 98bffb58dba7a0b469d8f8f0a2dcb2ec, type: 3}
+  enemigoVolador: {fileID: 4419348723893751218, guid: 909461eb78d075f43ab6d302ce547a32, type: 3}
   cols: []
   obstaculos: []
   textoPuntos: {fileID: 1360674732}

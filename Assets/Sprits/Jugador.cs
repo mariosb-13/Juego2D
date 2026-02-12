@@ -33,7 +33,6 @@ public class Jugador : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0); 
             rb.AddForce(new Vector2(0f, fuerzaSalto));
             
-            // ACTIVAR ANIMACIÓN: Forzamos el estado y reiniciamos el clip
             animator.SetBool("estaSaltando", true);
             animator.Play("Saltar", -1, 0f); 
             
@@ -55,13 +54,36 @@ public class Jugador : MonoBehaviour
         }
     }
 
-    void Morir()
-    {
-        if (musicaFondo != null) musicaFondo.Stop(); 
-        if (sonidoChoque != null) sonidoChoque.Play();
+private bool estaMuerto = false;
 
-        if (pantallaGameOver != null) pantallaGameOver.SetActive(true);
+void Morir()
+{
+    if (estaMuerto) return;
+    estaMuerto = true;
 
-        Time.timeScale = 0; 
-    }
+    GameManager gm = FindAnyObjectByType<GameManager>();
+    if (gm != null) gm.DetenerMundo();
+
+    GetComponent<Collider2D>().enabled = false;
+
+    rb.bodyType = RigidbodyType2D.Kinematic;
+    
+    rb.constraints = RigidbodyConstraints2D.FreezePositionX | RigidbodyConstraints2D.FreezeRotation;
+    
+    rb.linearVelocity = new Vector2(0f, 2.5f);
+
+    // Audio y Animación
+    if (musicaFondo != null) musicaFondo.Stop(); 
+    if (sonidoChoque != null) sonidoChoque.Play();
+    
+    animator.SetTrigger("Morir"); 
+
+    Invoke("MostrarGameOver", 2.5f); 
+}
+
+void MostrarGameOver()
+{
+    if (pantallaGameOver != null) pantallaGameOver.SetActive(true);
+    Time.timeScale = 0;
+}
 }
